@@ -19,7 +19,7 @@ if __name__ == '__main__':
 
 	ocr_threshold = .01
 
-	ocr_weights = b'data/ocr/yolo-obj_3001.weights'
+	ocr_weights = b'data/ocr/yolo-obj_2000.weights'
 	ocr_netcfg  = b'data/ocr/yolo-obj.cfg'
 	ocr_dataset = b'data/ocr/obj.data'
 
